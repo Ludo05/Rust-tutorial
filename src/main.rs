@@ -5,4 +5,5 @@ fn main() {
 
     data_types::run("Vari");
     data_types::add(3,6);
+    data_types::cond();
 }
